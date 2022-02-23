@@ -1,0 +1,7 @@
+.bg1{
+    background-image: url("img/bg2.jpg");
+    background-size: cover;
+    margin-top: 1em;
+    padding-top: 10em;
+    padding-bottom: 10em;
+}
